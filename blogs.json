@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "title" : "Mastering Markdown: A begginer's Guide to formattin like a Pro!"
+    "thumbnail_url" : "https://raw.githubusercontent.com/Mictlanti/AndroidBlogs-Server/refs/heads/main/images/F%C3%BChere.jpg",
+    "content_url" : "https://raw.githubusercontent.com/Mictlanti/AndroidBlogs-Server/refs/heads/main/blogs/blogs1.md",
+  },
+  {
+    "id" : 2,
+    "title" : "Understanding JSON: A comprehensive Guide"
+    "thumbnail_url" : "https://raw.githubusercontent.com/Mictlanti/AndroidBlogs-Server/refs/heads/main/images/halo_space.webp",
+    "content_url" : "https://raw.githubusercontent.com/Mictlanti/AndroidBlogs-Server/refs/heads/main/blogs/blog2.md",
+  },
+  {
+    "id" : 3,
+    "title" : "The complete guide to Room Database in Android for Efficeinte Data Storage"
+    "thumbnail_url" : "https://raw.githubusercontent.com/Mictlanti/AndroidBlogs-Server/refs/heads/main/images/the_last_of_us.webp",
+    "content_url" : "https://raw.githubusercontent.com/Mictlanti/AndroidBlogs-Server/refs/heads/main/blogs/blog3.md",
+  },
+  {
+    "id" : 4,
+    "title" : "Download Mimatika: A best app to learn Maths"
+    "thumbnail_url" : "https://raw.githubusercontent.com/Mictlanti/AndroidBlogs-Server/refs/heads/main/images/gta_image.webp",
+    "content_url" : "https://raw.githubusercontent.com/Mictlanti/AndroidBlogs-Server/refs/heads/main/blogs/blog4.md",
+  },
+]
